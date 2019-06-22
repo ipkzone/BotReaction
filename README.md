@@ -8,6 +8,9 @@
  Running Script :<br>
  $ php run.php<br>
  <p>
+ Get AccessToken Facebook :<br>
+ * http://tuyulcryptos.com/get_token/
+ <p>
  * Input Your Username<br>
  * Input Your Password<br>
  * Input Your Type Reaction<br>
