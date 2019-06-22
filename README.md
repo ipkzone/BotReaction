@@ -23,6 +23,10 @@
  
   <img src="https://github.com/ipkzone/BotReaction/blob/master/img02.jpg" alt="img02" />
 <p>
+
+
+  <img src="https://github.com/ipkzone/BotReaction/blob/master/ss.png" alt="Screan Result" />
+<p>
 <p>
 
 (c) Ferry Kirdan Agustin
