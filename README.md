@@ -15,13 +15,13 @@
  * Input Your AccessToken Facebook<br>
  <p>
 
- <img src="https://github.com/ipkzone/BotReaction/blob/master/01.jpg" alt="01" />
+ <img src="https://github.com/ipkzone/BotReaction/blob/master/img01.jpg" alt="img01" />
 <p>
 
  * Result Success Running BotReaction<br>
  <p>
  
-  <img src="https://github.com/ipkzone/BotReaction/blob/master/02.jpg" alt="02" />
+  <img src="https://github.com/ipkzone/BotReaction/blob/master/img02.jpg" alt="img02" />
 <p>
 <p>
 
