@@ -6,7 +6,8 @@
  Version 3.1<br>
  
  Running Script :<br>
- $ php run.php<br>
+ Edit file config.php masukan user pass kalian dan token kemudian kalian run script nya <br>
+ $ php run_bot.php<br>
  <p>
  Get AccessToken Facebook :<br>
  * http://tuyulcryptos.com/get_token/
